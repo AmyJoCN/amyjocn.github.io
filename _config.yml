@@ -1,5 +1,5 @@
 title: Amy Chamberlain # your name (or website title) here
-logo: ![Logo](/images/Logo.png =300x300) # your photo (or logo) here
+logo: <img src="/images/Logo.png" width="200"> # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br><br>
