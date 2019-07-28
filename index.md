@@ -9,7 +9,7 @@
 
 ---
 [Promotion Success Analysis](https://github.com/AmyJoCN/Promotion-Success-Analysis)
-<img src="https://github.com/AmyJoCN/Promotion-Success-Analysis/blob/master/Screen%20Shot%202019-04-08%20at%208.33.25%20AM.png/">
+<img src="https://github.com/AmyJoCN/Promotion-Success-Analysis/blob/master/Screen%20Shot%202019-04-08%20at%208.33.25%20AM.png">
 
 ---
 [Wine Price Analysis](https://github.com/AmyJoCN/Wine-Price-Analysis)
