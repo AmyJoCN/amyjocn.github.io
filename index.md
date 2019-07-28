@@ -2,28 +2,25 @@
 
 ---
 
-### Category Name 1 
+### Projects 
 
-[Project 1 Title](/sample_page)
+[Predicting Home Price](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Promotion Success Analysis](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Wine Price Analysis](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Publications
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Mid-Atlantic Consumer Purchasing Behavior and Knowledge of Locally Grown and Seasonal Produce](http://www.joe.org/joe/2013april/rb4.php)
+- [Comparing Consumer Preferences for Locally Grown and Certified Organic Produce in the Mid-Atlantic Region](http://horttech.ashspublications.org/content/23/1/74.full)
 
 ---
 
