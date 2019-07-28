@@ -6,9 +6,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   Recent graduate of University of WA - Certificate in Data Analytics program covering data analysis and machine learning using R and SQL, and data visualization using Power BI and Excel. 
   <br><br>
   Currently honing my data analysis skills and projecting fun and interactive dashboards. 
-  <br><br>
   <a href="https://www.linkedin.com/in/amyjocn/">View My LinkedIn Profile</a>
 
 
 theme: jekyll-theme-minimal
+
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
