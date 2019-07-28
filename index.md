@@ -13,7 +13,7 @@
 
 ---
 [Wine Price Analysis](https://github.com/AmyJoCN/Wine-Price-Analysis)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src=https://github.com/AmyJoCN/Promotion-Success-Analysis/blob/master/Screen%20Shot%202019-04-08%20at%208.33.25%20AM.png/>
 
 ---
 
