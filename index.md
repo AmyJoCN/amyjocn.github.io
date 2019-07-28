@@ -4,15 +4,15 @@
 
 ### Projects 
 
-[Predicting Home Price](/sample_page)
+[Predicting Home Price](https://github.com/AmyJoCN/Predicting-Home-Price)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Promotion Success Analysis](/pdf/sample_presentation.pdf)
+[Promotion Success Analysis](https://github.com/AmyJoCN/Promotion-Success-Analysis)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Wine Price Analysis](http://example.com/)
+[Wine Price Analysis](https://github.com/AmyJoCN/Wine-Price-Analysis)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
