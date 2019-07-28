@@ -5,15 +5,15 @@
 ### Projects 
 
 [Predicting Home Price](https://github.com/AmyJoCN/Predicting-Home-Price)
-<img src="images/P3_thumbnail?raw=true"/>
+<img src="images/P3_thumbnail.png?raw=true"/>
 
 ---
 [Promotion Success Analysis](https://github.com/AmyJoCN/Promotion-Success-Analysis)
-<img src="images/P2_thumbnail?raw=true"/>
+<img src="images/P2_thumbnail.png?raw=true"/>
 
 ---
 [Wine Price Analysis](https://github.com/AmyJoCN/Wine-Price-Analysis)
-<img src="images/P1_thumbnail?raw=true"/>
+<img src="images/P1_thumbnail.png?raw=true"/>
 
 ---
 
