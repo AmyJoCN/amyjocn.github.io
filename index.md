@@ -20,7 +20,7 @@
 ### Publications
 
 - [Mid-Atlantic Consumer Purchasing Behavior and Knowledge of Locally Grown and Seasonal Produce](http://www.joe.org/joe/2013april/rb4.php)
-- [Comparing Consumer Preferences for Locally Grown and Certified Organic Produce in the Mid-Atlantic Region](http://horttech.ashspublications.org/content/23/1/74.full)
+- [Comparing Consumer Preferences for Locally Grown and Certified Organic Produce in the Mid-Atlantic Region](https://journals.ashs.org/horttech/view/journals/horttech/23/1/article-p74.xml)
 
 ---
 
